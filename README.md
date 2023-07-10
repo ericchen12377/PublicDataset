@@ -1,33 +1,67 @@
 # PublicDataset
 
-Income https://www.kaggle.com/lodetomasi1995/income-classification
+For each dataset, a folder with raw data, processed data and preprocessing code can be used, except for the ones with comments.
 
-Arcene https://archive.ics.uci.edu/ml/machine-learning-databases/arcene/
+Kaggle-Income1995 https://www.kaggle.com/lodetomasi1995/income-classification
 
-Arrhythmia http://odds.cs.stonybrook.edu/arrhythmia-dataset/
+UCI-Arcene https://archive.ics.uci.edu/ml/machine-learning-databases/arcene/
 
-Bank https://archive.ics.uci.edu/ml/datasets/bank+marketing
+UCI-Arrhythmia: https://archive.ics.uci.edu/dataset/5/arrhythmia
 
-BlastChar https://www.kaggle.com/blastchar/telco-customer-churn
+UCI-Bank: https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
-Credit https://www.kaggle.com/jacklizhi/creditcard
+Kaggle-BlastChar: https://www.kaggle.com/blastchar/telco-customer-churn
 
-Forest https://kdd.ics.uci.edu/databases/covertype
+Kaggle-Creditcrad: https://www.kaggle.com/jacklizhi/creditcard
 
-HTRU2 https://archive.ics.uci.edu/ml/datasets/HTRU2
+UCI-Forest: https://kdd.ics.uci.edu/databases/covertype
 
-KDD 99 http://kdd.ics.uci.edu/databases/kddcup99
+UCI-HTRU2: https://archive.ics.uci.edu/ml/datasets/HTRU2
 
-Shoppers https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
+UCI-KDD 99: http://kdd.ics.uci.edu/databases/kddcup99
 
-Philippine http://automl.chalearn.org/data
+UCI-Shoppers: https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
 
-QSAR Bio https://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation
+AutoML-Philippine: http://www.causality.inf.ethz.ch/AutoML/philippine.zip
 
-Shrutime https://www.kaggle.com/shrutimechlearn/churn-modelling
+UCI-QSAR Bio: https://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation
 
-Spambase https://archive.ics.uci.edu/ml/datasets/Spambase
+Kaggle-Shrutime: https://www.kaggle.com/shrutimechlearn/churn-modelling
 
-Volkert http://automl.chalearn.org/data
+UCI-Spambase: https://archive.ics.uci.edu/ml/datasets/Spambase
 
-MNIST http://yann.lecun.com/exdb/mnist/, import from torch or tensorflow
+AutoML-Volkert: http://www.causality.inf.ethz.ch/AutoML/volkert.zip
+
+MNIST: http://yann.lecun.com/exdb/mnist/, import from torch or tensorflow
+
+Kaggle-Housing: https://www.kaggle.com/datasets/camnugent/california-housing-prices?select=housing.csv
+
+Kaggle-AdultIncome: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset/code
+
+OpenML-Helena: https://www.openml.org/search?type=data&sort=runs&id=41169&status=active
+
+OpenML-Jannis: https://www.openml.org/search?type=data&status=active&id=41168
+
+OpenML-Higgs: https://www.openml.org/search?type=data&sort=runs&id=23512&status=active
+
+ALOI: https://aloi.science.uva.nl/, download from source website
+
+Epsilon: https://catboost.ai/en/docs/concepts/python-reference_datasets_epsilon, import from catboost datasets
+
+UCI-Year: https://archive.ics.uci.edu/dataset/203/yearpredictionmsd, download and run preprocessing code
+
+AutoML-Albert: http://www.causality.inf.ethz.ch/AutoML/albert.zip, download and run preprocessing code
+
+AutoML-Adult: http://www.causality.inf.ethz.ch/AutoML/adult.zip
+
+Kaggle-dota2game: https://www.kaggle.com/datasets/tunguz/dota2-games-results-data-set
+
+OpenML-Fabert: https://www.openml.org/search?type=data&sort=runs&id=41164&status=active
+
+Kaggle-HCDR: https://www.kaggle.com/c/home-credit-default-risk, download from source website
+
+Kaggle-Jasmine: https://www.kaggle.com/datasets/ramadwiyantara/jasmine-dataset, download from source website
+
+Kaggle-Seismicbumps: https://www.kaggle.com/datasets/pranabroy94/seismic-bumps-data-set
+
+OpenML-Sylvine: https://www.openml.org/search?type=data&sort=runs&id=41146&status=active
